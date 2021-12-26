@@ -1,0 +1,50 @@
+{
+    "niter": 10815,
+    "logz": -6.582245748234071,
+    "logzerr": 0.1551577460494332,
+    "logz_bs": -6.596005906219448,
+    "logz_single": -6.582245748234071,
+    "logzerr_tail": 0.038677935158566434,
+    "logzerr_bs": 0.15025958701863296,
+    "ess": 3146.5656975765883,
+    "H": 6.101004165807404,
+    "Herr": 0.057284733018482435,
+    "posterior": {
+        "mean": [
+            0.9997573498590384
+        ],
+        "stdev": [
+            0.011319859588948733
+        ],
+        "median": [
+            0.9999965311844604
+        ],
+        "errlo": [
+            0.9884611144773431
+        ],
+        "errup": [
+            1.0108017016683428
+        ],
+        "information_gain_bits": [
+            3.9299918327661634
+        ]
+    },
+    "maximum_likelihood": {
+        "logl": -1.0211180100537025e-11,
+        "point": [
+            1.0000000511032154
+        ],
+        "point_untransformed": [
+            0.05000000255516077
+        ]
+    },
+    "ncall": 10944,
+    "paramnames": [
+        "B_nw"
+    ],
+    "logzerr_single": 0.0781089250073729,
+    "insertion_order_MWW_test": {
+        "independent_iterations": Infinity,
+        "converged": true
+    }
+}
